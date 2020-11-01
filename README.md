@@ -21,6 +21,6 @@ try your best to survive. And try to beat your own score.
 </ul>
 
 # IMAGE OF ANDROID APP WORKING
-<img src="space_shooter.PNG"   />
+<img src="appDevelopment.png"   />
 
 
