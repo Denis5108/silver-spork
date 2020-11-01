@@ -20,7 +20,7 @@ try your best to survive. And try to beat your own score.
   <li>www.stackoverflow.com</li>
 </ul>
 
-# IMAGE OF SOFTWARE TEST
+# IMAGE OF ANDROID APP WORKING
 <img src="space_shooter.PNG"   />
 
 
